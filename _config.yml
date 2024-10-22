@@ -11,6 +11,11 @@ description: > # your text below (remove <br> elements if you don't need line br
   BS, Mechanical Engineering<br/>Minor in Robotics<br/>
   Carnegie Mellon Univeristy (2021)
   <br><br>
+  <a href="Sharfin_Islam_CV.pdf">CV</a>|
+  <a href="https://www.linkedin.com/in/sharfin-islam-20653b145/">LinkedIn</a>
+  <a href="https://scholar.google.com/citations?user=lZFN954AAAAJ&hl=en&oi=sra">Google Scholar</a>
+  <a href="https://roam.me.columbia.edu/">Lab Webpage</a>
+
   
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
