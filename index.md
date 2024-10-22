@@ -8,6 +8,14 @@ Building real robots requires both the hardware and software to work in harmony.
 
 ## News
 
+<ul>
+  <li>(Oct 2024) - Presented work on hardware/software co-optimization at IROS 2024! </li> 
+  <li>(Oct 2024) - Presented at the 3rd Workshop on Mobile Manipulation and Embodied Intelligence <a href="">(MOMA.v3)</a></li>
+  <li>(Jan 2023) - Earned Master's Diploma!</li>
+  <li>(May 2022) - Presented work on minimally actuated quasi-passive walker at ICRA 2022! </li>
+  <li>(May 2022) - Passed PhD Qualification Exam! </li>
+</ul>
+
 ---
 ## Projects
 
