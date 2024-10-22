@@ -4,13 +4,11 @@ Hello! My name is Sharfin and I am a fourth year doctoral student at Columbia Un
 <br><br/>
 Building real robots requires both the hardware and software to work in harmony. I bring extensive hardware design experience, but also a strong foundation in computational modelling and optimization tools for controlling real robots. 
 
-###Education
+##Education
 <p> Ph.D., Mechanical Engineering | Columbia University (2021-Present) </p>
 <p> M.S., Mechanical Engineering | Columbia University (2022) </p>
 <p> B.S., Mechanical Engineering w/ Minor in Robotics | Carnegie Mellon University (2021) </p>
 
-###Contact
-sharfin.islam (at) columbia.edu
 ---
 
 ## News
