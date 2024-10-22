@@ -1,8 +1,3 @@
-## Education
-
-Ph.D., Mechanical Engineering | Columbia University (2021 - Present) <br/>
-M.S., Mechanical Engineering | Columbia University (2022) <br/>
-B.S., Mechanical Engineering, Minor in Robotics | Carnegie Mellon University (2021) <br/>
 
 ---
 
@@ -21,16 +16,11 @@ B.S., Mechanical Engineering, Minor in Robotics | Carnegie Mellon University (20
 
 ---
 
-### Category Name 2
-
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+### Publications
 
 ---
 
+### Volunteer and Outreach
 
 
 
