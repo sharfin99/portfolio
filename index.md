@@ -1,8 +1,12 @@
-## Portfolio
+## Education
+
+- Ph.D., Mechanical Engineering | Columbia University (2021 - Present)
+- M.S., Mechanical Engineering | Columbia University (2022)
+- B.S., Mechanical Engineering, Minor in Robotics | Carnegie Mellon University (2021)
 
 ---
 
-### Category Name 1 
+### Projects
 
 [Project 1 Title](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
