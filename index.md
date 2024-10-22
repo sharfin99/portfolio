@@ -9,25 +9,26 @@ Building real robots requires both the hardware and software to work in harmony.
 ## News
 
 <ul>
-  <li>(Oct 2024) - Presented work on hardware/software co-optimization at IROS 2024! </li> 
-  <li>(Oct 2024) - Presented at the 3rd Workshop on Mobile Manipulation and Embodied Intelligence <a href="https://mobile-manipulation.net/events/moma-iros24/">(MOMA.v3)</a></li>
-  <li>(Jan 2023) - Earned Master's Diploma!</li>
-  <li>(May 2022) - Presented work on minimally actuated quasi-passive walker at ICRA 2022! </li>
-  <li>(May 2022) - Passed PhD Qualification Exam! </li>
+  <li>{Oct 2024] - Presented <a href="https://arxiv.org/abs/2405.14566">paper</a> on hardware/software co-optimization for underactuated tendon transmissions at IROS 2024!</li> 
+  <li>{Oct 2024} - Presented at the 3rd Workshop on Mobile Manipulation and Embodied Intelligence <a href="https://mobile-manipulation.net/events/moma-iros24/">(MOMA.v3)</a></li>
+  <li>{Sept 2024} - Submitted <a href="https://arxiv.org/abs/2410.03481">paper</a> on low-cost 6-axis force/torque sensor to ICRA 2025 </li>
+  <li>{Jan 2023} - Earned Master's Diploma!</li>
+  <li>{May 2022} - Presented <a href="https://ieeexplore.ieee.org/document/9812053">paper</a> on minimally actuated quasi-passive walker at ICRA 2022! </li>
+  <li>{May 2022} - Passed PhD Qualification Exam! </li>
 </ul>
 
 ---
 ## Projects
 
-[Project 1 Title](/sample_page)
+[Project 1 Title](/sample_page}
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+[Project 2 Title](/pdf/sample_presentation.pdf}
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
+[Project 3 Title](http://example.com/}
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
