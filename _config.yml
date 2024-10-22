@@ -3,11 +3,14 @@ logo: "/images/headshot.png" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   Hi! I am a roboticists interested in the intersection between mechanical design and computational intelligence. I have a passion for clever mechanical design, and use computational modelling and optimization as design tools. 
   <br><br>
-  PhD, Mechanical Engineering | Columbia University (2021-Current)
+  PhD, Mechanical Engineering
+  Columbia University (2021-Current)
   <br><br>
-  MS, Mechanical Engineering | Columbia University (2022)
+  MS, Mechanical Engineering
+  Columbia University (2022)
   <br><br>
-  BS, Mechanical Engineering, Minor in Robotics | Carnegie Mellon Univerisyt (2021)
+  BS, Mechanical Engineering, Minor in Robotics 
+  Carnegie Mellon Univeristy (2021)
   <br><br>
   
 remote_theme: pages-themes/minimal@v0.2.0
