@@ -1,8 +1,8 @@
 ## Education
 
-- Ph.D., Mechanical Engineering | Columbia University (2021 - Present)
-- M.S., Mechanical Engineering | Columbia University (2022)
-- B.S., Mechanical Engineering, Minor in Robotics | Carnegie Mellon University (2021)
+Ph.D., Mechanical Engineering | Columbia University (2021 - Present) <br/>
+M.S., Mechanical Engineering | Columbia University (2022) <br/>
+B.S., Mechanical Engineering, Minor in Robotics | Carnegie Mellon University (2021) <br/>
 
 ---
 
