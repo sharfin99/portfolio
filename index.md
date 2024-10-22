@@ -1,10 +1,12 @@
 ## About Me
 
-Hello! My name is Sharfin and I am a fourth year doctoral student at Columbia University. I am advised by Matei Ciocarlie and work on mechanical design of robotic manipulators. Previously in my undergrad, I worked on design of minimally actuated quasi-passive walkers. Overall, I am interested in clever, but simple mechanical designs that can be easily controlled and deployed in real robotic applications. 
+Hello! My name is Sharfin and I am a fourth year doctoral student at Columbia University. I am advised by Matei Ciocarlie and work on mechanical design of robotic manipulators. Before my PhD, I worked on design of minimally actuated quasi-passive walkers.
 <br><br/>
-Building real robots requires both the hardware and software to work in harmony. I bring extensive hardware design experience, but also a strong foundation in computational modelling and optimization tools for controlling real robots. 
+Overall, I am interested in clever, but simple mechanical designs that can be easily controlled and deployed in real robotic applications. 
+<br><br/>
 
-##Education
+---
+## Education
 <p> Ph.D., Mechanical Engineering | Columbia University (2021-Present) </p>
 <p> M.S., Mechanical Engineering | Columbia University (2022) </p>
 <p> B.S., Mechanical Engineering w/ Minor in Robotics | Carnegie Mellon University (2021) </p>
