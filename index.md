@@ -23,15 +23,15 @@ Overall, I am interested in clever, but simple mechanical designs that can be ea
 ---
 ## Projects
 
-[Project 1 Title](/sample_page}
+[Low-Cost 6-Axis Force/Torque Sensor](/sample_page}
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf}
+[Hardware/Software Co-Optimization](/pdf/sample_presentation.pdf}
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/}
+[Minimally Actuated Quasi-Passive Walker](http://example.com/}
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
@@ -41,6 +41,8 @@ Overall, I am interested in clever, but simple mechanical designs that can be ea
 ---
 
 ## Volunteer and Outreach
+
+
 
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
