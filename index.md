@@ -28,7 +28,7 @@ Overall, I am interested in clever, but simple mechanical designs that can be ea
 
 ---
 [Hardware/Software Co-Optimization](https://roamlab.github.io/tentamorph/)
-<img src="images/eye-candy(9)-1.png?raw=true"/>
+<img src="images/eye-candy_co.png?raw=true"/>
 
 ---
 [Minimally Actuated Quasi-Passive Walker](https://www.youtube.com/watch?v=kECAdJEaJlk)
