@@ -31,7 +31,7 @@ Overall, I am interested in clever, but simple mechanical designs that can be ea
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Minimally Actuated Quasi-Passive Walker](walker.md}
+<a href="walker.md">[Minimally Actuated Quasi-Passive Walker]</a>
 <img src="images/9812053-fig-1-source-large.gif?raw=true"/>
 
 ---
