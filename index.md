@@ -66,7 +66,7 @@ J. Yim, **S. Islam**, K. Carter, S. Bergbreiter and A. M. Johnson, "3D Passive D
 **S. Islam**, K. Carter, R. St. Pierre, S. Bergbreiter and A. M. Johnson, "Integrating Passive Dynamic Wobbling with Leg Extension to Produce Stable Gaits in a Two-Actuator Bipedal Robot," 2020 Dynamic Walking Conference
 <br/>
 <br/>
-K. Carter,**S. Islam**,  R. St. Pierre, S. Bergbreiter and A. M. Johnson, "Design and Control of a Mesoscale Hip Actuated Powered Walker," 2020 Dynamic Walking Conference
+K. Carter, **S. Islam**,  R. St. Pierre, S. Bergbreiter and A. M. Johnson, "Design and Control of a Mesoscale Hip Actuated Powered Walker," 2020 Dynamic Walking Conference
 
 ---
 
