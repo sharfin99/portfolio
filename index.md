@@ -54,7 +54,12 @@ A. El-Azizi*, **S. Islam***, P. Piacenza*, I. Kymissis, and M. Ciocarlie. "A Com
 **S. Islam**, M. Ciocarlie. "Towards a Miniature Bi-Manual End-effector for Compact Coordinated Robot Dexterity", 3rd Workshop on Mobile Manipulation and Embodied Intelligence, October 2024
 <br/>
 **S. Islam***, K. Carter*, J. Yim*, J. Kyle, S. Bergbreiter and A. M. Johnson, "Scalable Minimally Actuated Leg Extension Bipedal Walker Based on 3D Passive Dynamics," 2022 International Conference on Robotics and Automation (ICRA), Philadelphia, PA, USA, 2022, (*joint first authorship)
-
+<br/>
+J. Yim,**S. Islam**, K. Carter, S. Bergbreiter and A. M. Johnson, "3D Passive Dynamics-inspired Walking Actuated by Open Loop Leg Extension," 2021 Dynamic Walking Conference
+<br/>
+**S. Islam**, K. Carter, R. St. Pierre, S. Bergbreiter and A. M. Johnson, "Integrating Passive Dynamic Wobbling with Leg Extension to Produce Stable Gaits in a Two-Actuator Bipedal Robot," 2020 Dynamic Walking Conference
+<br/>
+K. Carter,**S. Islam**,  R. St. Pierre, S. Bergbreiter and A. M. Johnson, "Design and Control of a Mesoscale Hip Actuated Powered Walker," 2020 Dynamic Walking Conference
 
 ---
 
