@@ -48,7 +48,7 @@ By leveraging the passive 3D dynamics, carefully designing the spherical feet, a
 ## Publications
 
 
-A. El-Azizi/*, **S. Islam/***, P. Piacenza*, I. Kymissis, and M. Ciocarlie. "A Compact, Low-cost Force and Torque Sensor for Robot Fingers with LED-based Displacement Sensing", under review (*joint first authorship)
+A. El-Azizi*, **S. Islam***, P. Piacenza*, I. Kymissis, and M. Ciocarlie. "A Compact, Low-cost Force and Torque Sensor for Robot Fingers with LED-based Displacement Sensing", under review (*joint first authorship)
 <br/>
 <br/>
 **S. Islam***, Z. He*, M. Ciocarlie. "Task-Based Design and Policy Co-Optimization for Tendon-driven Underactuated Kinematic Chains", IEEE/RSJ Intl. Conf. on Intelligent Robots and Systems, October 2024 (*joint first authorship)
