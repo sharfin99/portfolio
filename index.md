@@ -31,14 +31,14 @@ A novel method for six-axis force/torque sensing that allows for finger-size pac
 
 
 ---
-[Hardware/Software Co-Optimization](https://roamlab.github.io/tentamorph/)</br>
+[Hardware/Software Co-Optimization](https://roamlab.github.io/tentamorph/)<br/>
 We first formulate a general model for an underactuated, tendon-driven transmission and then use this model to co-optimize a three-link, two-actuator kinematic chain using reinforcement learning.
 
 <img src="images/eye-candy_co.png?raw=true"/>
 
 
 ---
-[Minimally Actuated Quasi-Passive Walker](https://www.youtube.com/watch?v=kECAdJEaJlk)</br>
+[Minimally Actuated Quasi-Passive Walker](https://www.youtube.com/watch?v=kECAdJEaJlk)<br/>
 By leveraging the passive 3D dynamics, carefully designing the spherical feet, and changing the actuation scheme, we are able to produce a very simple 3D bipedal walking model that has a total of 5 rigid bodies and a single actuator per leg.
 
 <img src="images/9812053-fig-1-source-large.gif?raw=true"/>
