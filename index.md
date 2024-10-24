@@ -15,23 +15,23 @@ Overall, I am interested in clever, but simple mechanical designs that can be ea
 
 ## News
 
-{Oct 2024] - Presented <a href="https://arxiv.org/abs/2405.14566">paper</a> on hardware/software co-optimization for underactuated tendon transmissions at IROS 2024!<br/>
-{Oct 2024} - Presented at the 3rd Workshop on Mobile Manipulation and Embodied Intelligence <a href="https://mobile-manipulation.net/events/moma-iros24/">(MOMA.v3)</a><br/>
-{Sept 2024} - Submitted <a href="https://arxiv.org/abs/2410.03481">paper</a> on low-cost 6-axis force/torque sensor to ICRA 2025<br/>
-{May 2022} - Presented <a href="https://ieeexplore.ieee.org/document/9812053">paper</a> on minimally actuated quasi-passive walker at ICRA 2022!<br/>
+[Oct 2024] - Presented <a href="https://arxiv.org/abs/2405.14566">paper</a> on hardware/software co-optimization for underactuated tendon transmissions at IROS 2024!<br/>
+[Oct 2024] - Presented at the 3rd Workshop on Mobile Manipulation and Embodied Intelligence <a href="https://mobile-manipulation.net/events/moma-iros24/">(MOMA.v3)</a><br/>
+[Sept 2024] - Submitted <a href="https://arxiv.org/abs/2410.03481">paper</a> on low-cost 6-axis force/torque sensor to ICRA 2025<br/>
+[May 2022] - Presented <a href="https://ieeexplore.ieee.org/document/9812053">paper</a> on minimally actuated quasi-passive walker at ICRA 2022!<br/>
 
 ---
 ## Projects
 
-[Low-Cost 6-Axis Force/Torque Sensor](/sample_page}
+[Low-Cost 6-Axis Force/Torque Sensor]{/sample_page}
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Hardware/Software Co-Optimization](/pdf/sample_presentation.pdf}
+[Hardware/Software Co-Optimization]{/pdf/sample_presentation.pdf}
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Minimally Actuated Quasi-Passive Walker](walker.md}
+[Minimally Actuated Quasi-Passive Walker]{walker.md}
 <img src="images/9812053-fig-1-source-large.gif?raw=true"/>
 
 ---
