@@ -32,7 +32,7 @@ Overall, I am interested in clever, but simple mechanical designs that can be ea
 
 ---
 [Minimally Actuated Quasi-Passive Walker](walker.md)
-<img src="images/New Project(1).gif?raw=true"/>
+<img src="images/walker.gif?raw=true"/>
 
 ---
 
