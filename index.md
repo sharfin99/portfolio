@@ -23,15 +23,15 @@ Overall, I am interested in clever, but simple mechanical designs that can be ea
 ---
 ## Projects
 
-[Low-Cost 6-Axis Force/Torque Sensor](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Low-Cost 6-Axis Force/Torque Sensor](https://arxiv.org/abs/2410.03481)
+<img src="images/eyecandy.png?raw=true"/>
 
 ---
-[Hardware/Software Co-Optimization](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Hardware/Software Co-Optimization](https://roamlab.github.io/tentamorph/)
+<img src="images/eye-candy(9)-1.png?raw=true"/>
 
 ---
-[Minimally Actuated Quasi-Passive Walker](walker.md)
+[Minimally Actuated Quasi-Passive Walker](https://www.youtube.com/watch?v=kECAdJEaJlk)
 <img src="images/9812053-fig-1-source-large.gif?raw=true"/>
 
 ---
