@@ -27,20 +27,20 @@ Overall, I am interested in clever, but simple mechanical designs that can be ea
 [Low-Cost 6-Axis Force/Torque Sensor](https://arxiv.org/abs/2410.03481)
 <img src="images/eyecandy.png?raw=true"/>
 
-A novel method for six-axis force/torque sensing, using LEDs to sense the displacement between two plates connected by a transparent elastomer. Our method allows for finger-size packaging with no amplification electronics, low cost manufacturing, and easy integration into a complete hand. 
+A novel method for six-axis force/torque sensing that allows for finger-size packaging with no amplification electronics, low cost manufacturing, and easy integration into a complete hand. 
 
 
 ---
 [Hardware/Software Co-Optimization](https://roamlab.github.io/tentamorph/)
 <img src="images/eye-candy_co.png?raw=true"/>
 
-Our goal is to implement a task-based design and policy co-optimization method for underactuated, tendon-driven manipulators. We first formulate a general model for an underactuated, tendon-driven transmission. We then use this model to co-optimize a three-link, two-actuator kinematic chain using reinforcement learning. We demonstrate that our optimized tendon transmission and control policy can be transferred reliably to physical hardware with real-world reaching experiments.
+We first formulate a general model for an underactuated, tendon-driven transmission and then use this model to co-optimize a three-link, two-actuator kinematic chain using reinforcement learning. We demonstrate that our optimized tendon transmission and control policy can be transferred reliably to physical hardware with real-world reaching experiments.
 
 ---
 [Minimally Actuated Quasi-Passive Walker](https://www.youtube.com/watch?v=kECAdJEaJlk)
 <img src="images/9812053-fig-1-source-large.gif?raw=true"/>
 
-By leveraging the passive 3D dynamics, carefully designing the spherical feet, and changing the actuation scheme, we are able to produce a very simple 3D bipedal walking model that has a total of 5 rigid bodies and a single actuator per leg. Additionally, the model requires no feedback as each actuator is controlled by an open-loop sinusoidal profile.
+By leveraging the passive 3D dynamics, carefully designing the spherical feet, and changing the actuation scheme, we are able to produce a very simple 3D bipedal walking model that has a total of 5 rigid bodies and a single actuator per leg.
 
 ---
 
