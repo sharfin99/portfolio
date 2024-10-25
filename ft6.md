@@ -5,6 +5,7 @@ Force/Torque sensors are useful in a variety of applications, especially robot m
 
 ### 1. Concept
 
+<img src="images/9812053-fig-1-source-large.gif?raw=true"/>
 
 
 
