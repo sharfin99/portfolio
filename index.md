@@ -23,21 +23,21 @@ Overall, I am interested in clever, but simple mechanical designs that can be ea
 ---
 ## Projects
 
-[Low-Cost 6-Axis Force/Torque Sensor](https://arxiv.org/abs/2410.03481)<br/>
+[Low-Cost 6-Axis Force/Torque Sensor](ft6.md)<br/>
 A novel method for six-axis force/torque sensing that allows for finger-size packaging with no amplification electronics, low cost manufacturing, and easy integration into a complete hand. 
 <img src="images/eyecandy.png?raw=true"/>
 
 
 
 ---
-[Hardware/Software Co-Optimization](https://roamlab.github.io/tentamorph/)<br/>
+[Hardware/Software Co-Optimization](coop.md)<br/>
 We first formulate a general model for an underactuated, tendon-driven transmission and then use this model to co-optimize a three-link, two-actuator kinematic chain using reinforcement learning.
 
 <img src="images/eye-candy_co.png?raw=true"/>
 
 
 ---
-[Minimally Actuated Quasi-Passive Walker](https://www.youtube.com/watch?v=kECAdJEaJlk)<br/>
+[Minimally Actuated Quasi-Passive Walker](walker.md)<br/>
 By leveraging the passive 3D dynamics, carefully designing the spherical feet, and changing the actuation scheme, we are able to produce a very simple 3D bipedal walking model that has a total of 5 rigid bodies and a single actuator per leg.
 
 <img src="images/9812053-fig-1-source-large.gif?raw=true"/>
