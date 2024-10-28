@@ -1,11 +1,11 @@
 ## Scalable Minnimally Acutated Quasi-Passive Walker 
 
 <video src="images/walkervid-ezgif.com-resize-video.mp4" width="480" height="240" controls></video>
-<br></br>
+<br><br/>
 Small bipedal robots have potential of navigating small spaces with a simpler body, and also could be used in film, toys, and other entertainment industries. Shrinking a bipedal walker means there is limited room for actuation, control, and sensing for both stability and motion control.
 
 By leveraging the passive 3D dynamics, carefully designing the spherical feet, and changing the actuation scheme, we are able to produce a very simple 3D bipedal walking model that has a total of 5 rigid bodies and a single actuator per leg.
-<br></br>
+<br><br/>
 
 ### 1. Concept
 
@@ -17,7 +17,8 @@ Quasi-passive walkers leverage curved, spherical feet and actuators to create wa
 
 <img src="images/ModelsNew3.png?raw=true"/>
 
-With our robot design, we use a single actuator per leg to both generate this wobble and encourage the legs to swing forward. Our walking model consists of 5 rigid bodies – a torso, two upper legs, and two spherical section feet. The hip joint is passive, but there is an actuated prismatic joint in each of the two leg.
+With our robot design, we use a single actuator per leg to both generate this wobble and encourage the legs to swing forward. Our walking model consists of 5 rigid bodies – a torso, two upper legs, and two spherical section feet. The hip joint is passive, but there is an actuated prismatic joint in each of the two leg. 
+
 
 
 ### 3. Experimental Results
