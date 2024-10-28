@@ -7,6 +7,7 @@ Small bipedal robots have potential of navigating small spaces with a simpler bo
 
 <video src="images/walkervid-ezgif.com-resize-video.mp4" width="480" height="240" controls></video>
 
+<br>
 
 By leveraging the passive 3D dynamics, carefully designing the spherical feet, and changing the actuation scheme, we are able to produce a very simple 3D bipedal walking model that has a total of 5 rigid bodies and a single actuator per leg.
 <br>
