@@ -5,7 +5,7 @@ Small bipedal robots have potential of navigating small spaces with a simpler bo
 
 ### 1. Concept
 
-![](https://github.com/sharfin99/portfolio/blob/master/images/Bipedal_Walking_with_a_Compass_Gait_Robot.gif)
+<video src="images/videoplayback-ezgif.com-video-cutter.mp4" width="320" height="240" controls></video>
 
 Quasi-passive walkers leverage curved, spherical feet and actuators to create walkers with minimally complex designs and control schemes. The curved feed are crucial to the stability and forward motion. The feet are curved in the frontal plane so the robot can wobble back and forth. Once the robot generates a strong wobble, the feet gain clearance and are free to swing forward. In Tad McGeer's initial model for passive walking, the robot was put on a inclined slope to generate a forward leg swing and the wobble was initiated by a human. 
 
