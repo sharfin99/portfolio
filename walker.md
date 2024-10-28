@@ -1,5 +1,7 @@
 ## Scalable Minnimally Acutated Quasi-Passive Walker 
 
+[<a href="https://ieeexplore.ieee.org/document/9812053">Paper</a>][<a href="https://www.youtube.com/watch?v=kECAdJEaJlk">Video</a>]
+
 <video src="images/walkervid-ezgif.com-resize-video.mp4" width="480" height="240" controls></video>
 <br><br/>
 Small bipedal robots have potential of navigating small spaces with a simpler body, and also could be used in film, toys, and other entertainment industries. Shrinking a bipedal walker means there is limited room for actuation, control, and sensing for both stability and motion control.
