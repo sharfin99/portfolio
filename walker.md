@@ -26,7 +26,7 @@ With our robot design, we use a single actuator per leg to both generate this wo
 The geometry of the spherical feet is crucial to creating a stable walking gait. Our walker is unique in that the profiles of the two feet are not concentric. This design choice allows for a smooth transition between the feet as the robot rolls laterally. 
 
 
-
 ### 3. Experimental Results
 
+<img src="images/ResultsCombo.png?raw=true"/>
 
