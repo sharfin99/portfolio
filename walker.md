@@ -3,7 +3,9 @@
 <video src="images/walkervid-ezgif.com-resize-video.mp4" width="480" height="240" controls></video>
 
 **Project description:** <br/>
-Small bipedal robots have potential of navigating small spaces with a simpler body, and also could be used in film, toys, and other entertainment industries. Shrinking a bipedal walker means there is limited room for actuation, control, and sensing for both stability and motion control. Our goal is to leverage passive dynamics to create a minimally actuated and controlled bipedal walking model that can be shrunk to a centimeter-scale.
+Small bipedal robots have potential of navigating small spaces with a simpler body, and also could be used in film, toys, and other entertainment industries. Shrinking a bipedal walker means there is limited room for actuation, control, and sensing for both stability and motion control.
+
+By leveraging the passive 3D dynamics, carefully designing the spherical feet, and changing the actuation scheme, we are able to produce a very simple 3D bipedal walking model that has a total of 5 rigid bodies and a single actuator per leg.
 
 ### 1. Concept
 
