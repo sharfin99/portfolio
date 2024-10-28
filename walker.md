@@ -13,6 +13,14 @@ With our robot design, we use a single actuator per leg to both generate this wo
 
 ### 2. Design
 
+<img src="images/ModelsNew3.png?raw=true"/>
+
+Our walking model consists of 5 rigid bodies – a torso, two upper legs, and two spherical section feet. The hip joint is passive, but there is an actuated prismatic joint in each of the two leg. 
+
+![](https://github.com/sharfin99/portfolio/blob/master/images/walker.gif)
+
+This actuation scheme results in the stance leg extended past nominal during the stance phase and retracted during the swing phase. During double stance, with a phase offset of 180◦, both legs are at the nominal length. The stance leg extending and the swing leg retracting allow for increased swing leg clearance.
+
 ### 3. Experimental Results
 
 
