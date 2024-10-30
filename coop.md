@@ -13,10 +13,6 @@ Underactuated manipulators require a carefully designed transmission, often tend
 
 The fundamental difficulty of such approaches lies in formulating a co-design problem that a) enables the use of non-trivial controllers or policies, b) can be solved to an acceptable optimum point, c) guarantees that the final result can be physically realized in real hardware, and finally d) ensures that the optimized control policy also transfers to real hardware without substantial loss of performance
 
-
-
-
-
 ### 2. Co-Optimization of non-differentiable model parameters w/ Reinforcement Learning
 
 <img src="images/eye-candy_co.png?raw=true"/>
@@ -30,9 +26,13 @@ We apply MORPH, an iterative training framework for design-control co-optimizati
 
 We design a multi-flexor transmission that enables efficient end-to-end task based optimization. In extension, each link is passively driven by an elastic tendon that stretches over a pulley and is fixed to the previous link - this gives us two design parameters for each link - radius of the extension pulley and the preload elongation. The chain is driven in flexion by actuated, rigid tendons that are position controlled and route through all the links in the chain over idler pulleys - this gives us an additional hardware parameter which is the radius of the pulley. 
 
-
-
 <img src="images/model_tendon1.png?raw=true"/>
 
 If we use multiple tendons, we can span a multi-dimensional manifodl. However, designing the appropriate transmission to make this manifold smooth and sufficient for the task is difficult. We use Morph to co-optimize a three-link, two-actuator robot with our transmission design. 
+
+### 4. Transfer to Real Hardware
+
+We were able to accurately trasnfer the co-optimized hardware parameters and control policy on real-hardware without substantial loss in performance. 
+
+<video src="images/coop_exp.mp4" width="480" height="240" controls></video>
 
