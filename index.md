@@ -48,16 +48,16 @@ By leveraging the passive 3D dynamics, carefully designing the spherical feet, a
 ## Publications
 
 
-A. El-Azizi*, ** S. Islam\* **, P. Piacenza*, I. Kymissis, and M. Ciocarlie. "A Compact, Low-cost Force and Torque Sensor for Robot Fingers with LED-based Displacement Sensing", under review (*joint first authorship)
+A. El-Azizi*, **S. Islam\***, P. Piacenza\*, I. Kymissis, and M. Ciocarlie. "A Compact, Low-cost Force and Torque Sensor for Robot Fingers with LED-based Displacement Sensing", under review (*joint first authorship)
 <br/>
 <br/>
-** S. Islam\* **, Z. He\*, M. Ciocarlie. "Task-Based Design and Policy Co-Optimization for Tendon-driven Underactuated Kinematic Chains", IEEE/RSJ Intl. Conf. on Intelligent Robots and Systems, October 2024 (*joint first authorship)
+**S. Islam\***, Z. He\*, M. Ciocarlie. "Task-Based Design and Policy Co-Optimization for Tendon-driven Underactuated Kinematic Chains", IEEE/RSJ Intl. Conf. on Intelligent Robots and Systems, October 2024 (*joint first authorship)
 <br/>
 <br/>
-** S. Islam **, M. Ciocarlie. "Towards a Miniature Bi-Manual End-effector for Compact Coordinated Robot Dexterity", 3rd Workshop on Mobile Manipulation and Embodied Intelligence, October 2024
+**S. Islam**, M. Ciocarlie. "Towards a Miniature Bi-Manual End-effector for Compact Coordinated Robot Dexterity", 3rd Workshop on Mobile Manipulation and Embodied Intelligence, October 2024
 <br/>
 <br/>
-** S. Islam\* **, K. Carter\*, J. Yim\*, J. Kyle, S. Bergbreiter and A. M. Johnson, "Scalable Minimally Actuated Leg Extension Bipedal Walker Based on 3D Passive Dynamics," 2022 International Conference on Robotics and Automation (ICRA), Philadelphia, PA, USA, 2022, (*joint first authorship)
+**S. Islam\***, K. Carter\*, J. Yim\*, J. Kyle, S. Bergbreiter and A. M. Johnson, "Scalable Minimally Actuated Leg Extension Bipedal Walker Based on 3D Passive Dynamics," 2022 International Conference on Robotics and Automation (ICRA), Philadelphia, PA, USA, 2022, (*joint first authorship)
 <br/>
 <br/>
 J. Yim, **S. Islam**, K. Carter, S. Bergbreiter and A. M. Johnson, "3D Passive Dynamics-inspired Walking Actuated by Open Loop Leg Extension," 2021 Dynamic Walking Conference
