@@ -1,11 +1,11 @@
 ## Low-Cost 6-Axis Force/Torque Sensor 
 
-**Project description:** <br/>
-Force/Torque sensors are useful in a variety of applications, especially robot manipulation. Most of these sensors are fragile and extremely expensive. Our goal is to develop a low-cost, compact -axis sensor that we can easily integrate into a robot hand for contact-rich manipulation tasks. 
+[<a href="https://arxiv.org/abs/2410.03481">Paper</a>][<a href="https://youtu.be/QZGhIQBNQCY">Video</a>]
+
+
 
 ### 1. Concept
 
-<img src="images/9812053-fig-1-source-large.gif?raw=true"/>
 
 
 
