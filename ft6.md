@@ -1,4 +1,4 @@
-## Low-Cost 6-Axis Force/Torque Sensor 
+## Low-Cost 6-Axis Force/Torque Sensor for Robot Hands
 
 [<a href="https://arxiv.org/abs/2410.03481">Paper</a>][<a href="https://youtu.be/QZGhIQBNQCY">Video</a>]
 
