@@ -28,6 +28,6 @@ The geometry of the spherical feet is crucial to creating a stable walking gait.
 
 ### 3. Experimental Results
 
-<img src="images/ResultsCombo.png?raw=true"/>
+<video src="images/Scalable Minimally Actuated Leg Extension Bipedal Walker Based on 3D Passive Dynamics (online-video-cutter.com).mp4" width="480" height="240" controls></video>
 <br>
-We tested three different feet geometries with 2D sagittal and frontal plane models, derived using a lagrangian formulation. Our model with non-concentric spherical feet produced the most stable gaits at different leg extension amplitude and control frequencies. We validated our results on a real walker. For more detailed and visual look at our results, see the video linked at the top. 
+We tested three different feet geometries with 2D sagittal and frontal plane models, derived using a lagrangian formulation. Our model with non-concentric spherical feet produced the most stable gaits at different leg extension amplitude and control frequencies. We validated our results on a real walker.
