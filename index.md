@@ -1,3 +1,4 @@
+<meta name="google-site-verification" content="5lWOJWWiTsUq2h2oeK0XOwg8ERSNiTIs2ZsILZ_wYSM" />
 ## About Me
 
 Hello! My name is Sharfin and I am a fourth year doctoral student at Columbia University. I am advised by Matei Ciocarlie and work on mechanical design of robotic manipulators. Before my PhD, I worked on design of minimally actuated quasi-passive walkers with Aaron Johnson, Sarah Bergbreiter, and Justin Yim.
