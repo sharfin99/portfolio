@@ -24,7 +24,7 @@ Overall, I am interested in the design and control of intelligent, but simple me
 ---
 ## Projects
 
-[Miniature Bi-Manual Manipulator](ft6.md)<br/>
+[Miniature Bi-Manual Manipulator](minibee.md)<br/>
 A new form factor for coordinated dexterity that leverages current advances in imitiation learning for bi-manual tasks, while addressing some key limitations in the overall system design. 
 <img src="images/minibee_eyecandy.png?raw=true"/>
 
