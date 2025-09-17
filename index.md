@@ -38,7 +38,7 @@ A novel method for six-axis force/torque sensing that allows for finger-size pac
 
 
 ---
-[End-to-end Hardware/Software Co-Optimization w/ Reinforcement Learning](coop.md)<br/>
+[Multi-Flexor Tendon Transmission Design, Modelling, and Co-Optimization](coop.md)<br/>
 We first formulate a general model for an underactuated, tendon-driven transmission and then use this model to co-optimize a three-link, two-actuator kinematic chain using reinforcement learning.
 
 <img src="images/eye-candy_co.png?raw=true"/>
