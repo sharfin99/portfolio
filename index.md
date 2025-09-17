@@ -24,13 +24,6 @@ Overall, I am interested in the design and control of intelligent, but simple me
 ---
 ## Projects
 
-[Miniature Bi-Manual Manipulator](minibee.md)<br/>
-A new form factor for coordinated dexterity that leverages current advances in imitiation learning for bi-manual tasks, while addressing some key limitations in the overall system design. 
-<img src="images/minibee_eyecandy.png?raw=true"/>
-
-
-
----
 [Low-Cost 6-Axis Force/Torque Sensor for Robot Hands](ft6.md)<br/>
 A novel method for six-axis force/torque sensing that allows for finger-size packaging with no amplification electronics, low cost manufacturing, and easy integration into a complete hand. 
 <img src="images/eyecandy.png?raw=true"/>
